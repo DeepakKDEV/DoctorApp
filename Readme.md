@@ -46,16 +46,16 @@ ___
 
 <!-- Key Features -->
 ## Key Features
-- Add Users
-- Get All Users.
-- Get User Details By Id.
-- Delete User By Id.
-- Update User Id
+- Add Patient
+- Get All Patient.
+- Get Patient Details By Id.
+- Delete Patient By Id.
+- Update Patient Id
 
 <!-- Usage -->
 ## Usage
 - Access the application at `http://localhost:8080`.
-- Use the provided API endpoints to manage your User Management.
+- Use the provided API endpoints to manage your Doctor App
 
 ### Controller:
 - It consists of a class named APIController which basically controls the flow of data.
